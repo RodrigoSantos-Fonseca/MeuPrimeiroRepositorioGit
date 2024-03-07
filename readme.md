@@ -23,3 +23,5 @@
 
 - Comando push
     - Envia as atualizações locais para o repositório remoto
+
+    - [x] Atividade Concluída
