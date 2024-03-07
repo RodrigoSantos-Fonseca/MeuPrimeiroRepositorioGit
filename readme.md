@@ -22,4 +22,4 @@
     - Recebe as modificações do repositório remoto
 
 - Comando push
-    -Envia as atualizações locais para o repositório remoto
+    - Envia as atualizações locais para o repositório remoto
